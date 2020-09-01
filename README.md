@@ -14,8 +14,8 @@
 
   ## Usage 
 
-  To use this the user will run the server within the console and select which prompts to use. See walktrough video for more
-
+  To use this the user will run the server within the console and select which prompts to use. See walktrough video for more:
+  https://drive.google.com/file/d/1rPWcMKHQ9478NstyovKxx5TIy-PgMgii/view
 
   ## Questions?
 
